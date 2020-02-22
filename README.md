@@ -1,10 +1,8 @@
-<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
+![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png) 
 
-### iOS Indexed Table View App
+# iOS Indexed Table View
 
-![iOS Indexed Table View](https://user-images.githubusercontent.com/45048950/73082414-654a2b00-3f04-11ea-85a5-99d981e41673.png)
-
-### Built With: 
+![iOS-Indexed-Table-View](https://user-images.githubusercontent.com/45048950/75095471-00035b80-55d0-11ea-92fd-7c9f0fe6528f.gif)
 
 ### Code Editor
 
